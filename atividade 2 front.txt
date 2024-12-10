@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>minha primeira pagina</title>
+</head>
+<body>
+    <img src="./img/elielson.jpg" height="180" width="180">
+    <h1>Fábio Daniel</h1> 
+    <p>Fábio Daniel aluno da universade estadual da paraiba, 22 anos natural de Nova Floresta.
+    Ensino medio completo no ano de 2018. 
+    Gosto de jogar um valorant e um lolzinho.</p>
+
+    <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+
+        h1 {
+            color: chartreuse;
+        }
+    </style>
+</body>
+</html>

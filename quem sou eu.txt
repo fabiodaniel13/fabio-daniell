@@ -1,0 +1,34 @@
+
+!DOCTYPE html
+html lang=pt-br
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titleQuem sou eutitle
+    style
+        body {
+            font-family Arial, sans-serif;
+            background-color #141111;
+            text-align center;
+            padding 20px;
+        }
+        img {
+            border-radius 50%;
+            width 200px;
+            height 200px;
+        }
+        h1 {
+            color #f0eded;
+        }
+        p {
+            color #faf8f8;
+            font-size 18px;
+        }
+    style
+head
+body
+    h1Quem sou euh1
+    img src=minha-imagem.JPG.jpg alt=Imagem do personagem
+    p mais conhecida como Sailor Moon ou Navegante da Lua, é a personagem principal do anime e mangá Sailor Moon. p
+body
+html

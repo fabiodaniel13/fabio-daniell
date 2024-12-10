@@ -1,0 +1,30 @@
+head
+body
+    table border=4
+        caption class=cabeçaMinha agendacaption
+        thead
+        trthDiath thAtividadeth thHorarioth tr
+        trtdsegundatd tdfront endtd td1410tdtr
+        trtdterçatd tdback endtd td1410tdtr
+        trtdquartatd tdarquiteturatd td1310tdtr
+        trtdquintatd tdredestd td1310tdtr
+        thead
+    table
+    style
+        .cabeça {
+            color rgb(30, 255, 0);
+            font-family sans-serif;
+            font-size 25px;
+        }
+        table {
+            font-family sans-serif;
+            color rgb(30, 255, 0);
+            background-color black;
+            font-size 15px;
+        }
+        th {
+            font-size 20px;
+        }
+    style
+body
+html
